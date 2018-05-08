@@ -61,7 +61,7 @@ _Note:_ If you want to build the x64 version, please add `-G "Visual Studio 15 2
     - `<vcpkg directory>\installed\<relevant config>\bin`
     - `<QT5 directory>\bin` (if prebuilt QT5 was installed)
 
- Now, execute `<openage directory>/run.exe` and enjoy!
+ Now, execute `<openage directory>/run.exe game` and enjoy!
 
 ## Packaging
  Open a command prompt at `<openage directory>\build` (or use the one from the building step):
